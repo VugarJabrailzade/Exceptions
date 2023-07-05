@@ -1,0 +1,15 @@
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\obj\Debug\net6.0\Excep_task.csproj.AssemblyReference.cache
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\obj\Debug\net6.0\Excep_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\obj\Debug\net6.0\Excep_task.AssemblyInfoInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\obj\Debug\net6.0\Excep_task.AssemblyInfo.cs
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\obj\Debug\net6.0\Excep_task.csproj.CoreCompileInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\bin\Debug\net6.0\Excep_task.exe
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\bin\Debug\net6.0\Excep_task.deps.json
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\bin\Debug\net6.0\Excep_task.runtimeconfig.json
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\bin\Debug\net6.0\Excep_task.dll
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\bin\Debug\net6.0\Excep_task.pdb
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\obj\Debug\net6.0\Excep_task.dll
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\obj\Debug\net6.0\refint\Excep_task.dll
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\obj\Debug\net6.0\Excep_task.pdb
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\obj\Debug\net6.0\Excep_task.genruntimeconfig.cache
+C:\Users\vcebr\OneDrive\Desktop\Exceptions\Excep_task\Excep_task\obj\Debug\net6.0\ref\Excep_task.dll
